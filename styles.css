@@ -1,18 +1,18 @@
 @font-face {
     font-family: 'Monserrat';
-    font-weight: 'regular';
+    font-weight: bold;
     src: url(./assets/fonts/Montserrat-Regular.ttf);
 }
 
 @font-face {
     font-family: 'Monserrat';
-    font-weight: 'light';
+    font-weight: normal;
     src: url(./assets/fonts/Montserrat-Light.ttf);
 }
 
 :root{
     font-family: 'Monserrat';
-    font-weight: 'regular';
+    font-weight: normal;
     font-size: 13px;
 }
 
